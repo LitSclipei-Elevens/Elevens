@@ -1,18 +1,18 @@
 #BlueJ package file
 objectbench.height=100
-objectbench.width=357
-package.editor.height=400
-package.editor.width=560
-package.editor.x=50
-package.editor.y=50
+objectbench.width=647
+package.editor.height=528
+package.editor.width=549
+package.editor.x=683
+package.editor.y=0
 package.numDependencies=0
 package.numTargets=1
 package.showExtends=true
 package.showUses=true
 target1.editor.height=700
 target1.editor.width=900
-target1.editor.x=90
-target1.editor.y=70
+target1.editor.x=299
+target1.editor.y=21
 target1.height=50
 target1.name=Card
 target1.naviview.expanded=true
