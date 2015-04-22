@@ -1,4 +1,4 @@
-package Activity02;
+package Elevens.Activity02;
 
 /**
  * Card.java
